@@ -1,4 +1,4 @@
-# React App Template (typescript)
+# React App Template (typescript) with Jest and React Testing Library
 
 - `npm i` install dependencies
 - `npm run dev` - start dev server
